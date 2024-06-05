@@ -61,10 +61,10 @@ Welcome to OpenSign, the premier open source docusign alternative - document e-s
 - **API Support:** OpenSign™ API allows seamless integration into existing systems and software. You can generate an API key from the app and refer the [docs](https://docs.opensignlabs.com) to start integrating it in your existing applications.
 - **Integrations:** Seamless integrations with various Cloud storage systems, CRMs & enterprise platforms is available. We also have a Zapier integration that allows you to integrate it with virtually any application.
 
-<img src=https://github.com/OpenSignLabs/OpenSign/assets/5486116/b37ff443-7099-4273-9aeb-21c46d7154cf height='200'>
-<img src=https://github.com/OpenSignLabs/OpenSign/assets/5486116/86db91b7-6c2f-4885-a33c-58f4fd35ec89 height='200'>
-<img src=https://github.com/OpenSignLabs/OpenSign/assets/5486116/56835efd-c40e-42de-a206-20202c293876 height='200'>
-
+<img src=https://github.com/OpenSignLabs/OpenSign/assets/75237892/61f0af61-3c99-4278-8ade-2cc0fd41e843 height='200'>
+<img src=https://github.com/OpenSignLabs/OpenSign/assets/75237892/c38c839c-44dd-45fd-901c-c8e5444abc61 height='200'>
+<img src=https://github.com/OpenSignLabs/OpenSign/assets/75237892/259b4412-c4bc-44e6-89b4-80eb7b1ea067 height='200'>
+<img src=https://github.com/OpenSignLabs/OpenSign/assets/75237892/bacf268e-d879-47e0-90b2-8922c4a8a55e height='200'>
 
 ---
 
